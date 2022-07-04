@@ -1,0 +1,23 @@
+{
+    "token": "OTkzMjI3MjIyODI1NTc0NDcx.G2Bc_k.OBrrVn4tN1lLOYC5gYf88URunWZSx4ppSzYQIw",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/993264509659648080/GoANIFy9x_VXmbiGtmidxalWqDw9m50lFJdn4mWgoqkWJwAzt4_VCosg9SIdvnZjpfLR": {
+            "url": "https://www.vinted.com/vetements?search_text=&brand_id[]=88&brand_id[]=14&brand_id[]=94&brand_id[]=304&status[]=2&status[]=3&status[]=1&catalog[]=76&price_from=0.0&price_to=40.0&currency=EUR&search_id=5776354197&order=newest_first",
+            "salon": "general"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
